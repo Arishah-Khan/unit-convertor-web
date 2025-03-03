@@ -57,6 +57,7 @@ speechrecognition==3.14.1
 standard-aifc==3.13.0
 standard-chunk==3.13.0
 streamlit==1.42.2
+soundfile
 tenacity==9.0.0
 toml==0.10.2
 tornado==6.4.2
